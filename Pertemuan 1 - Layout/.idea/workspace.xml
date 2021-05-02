@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fdff0f3-10b0-4871-be0d-11680f8cc20f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Pertemuan 3 - Recycler View/app/src/main/res/drawable-v24/mal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pertemuan 3 - Recycler View/app/src/main/res/drawable/ic_baseline_star_24.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pertemuan 2 - kalkulator/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pertemuan 2 - kalkulator/.idea/gradle.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6fdff0f3-10b0-4871-be0d-11680f8cc20f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
